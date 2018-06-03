@@ -1,5 +1,5 @@
 #############################################################################################
-#Summary of Ideas and Features
+# Summary of Ideas and Features
 #############################################################################################
 
 **Goal**: Create a RPG using Google Maps API
@@ -9,7 +9,7 @@
     * **Postal Code** will be used as the starting point for the User's character
 
 #############################################################################################
-#Basic RPG Elements and Ideas
+# Basic RPG Elements and Ideas
 #############################################################################################
 
 Being in a typical roaming RPG format the user's character starts at level 0 with all skills set at 0 experience
@@ -40,7 +40,7 @@ While Exploring Users can engage in Combat
         3. Melee
 
 #############################################################################################
-#Possible Page Layout and Features
+# Possible Page Layout and Features
 #############################################################################################
 
 **Main Page** will be the Sign-on/up with basic information about the game
@@ -58,7 +58,7 @@ While Exploring Users can engage in Combat
     4. Information/Event Page
 
 #############################################################################################
-#The Map and Actions
+# The Map and Actions
 #############################################################################################
 
 The user can Explore using the Google Map and access features based on nearby buildings and areas
@@ -72,7 +72,7 @@ The user can Explore using the Google Map and access features based on nearby bu
         * Random special encounters or events can occur here
 
 #############################################################################################
-#The API Usage
+# The API Usage
 #############################################################################################
 
 When using the Map to explore and generate loactions to interact with they should be different while also allowing users all over the world to have and equal opportunity
@@ -83,7 +83,7 @@ When using the Map to explore and generate loactions to interact with they shoul
     * **Type**: Identify what the user can do
 
 #############################################################################################
-#Possible Addition Technologies to Use
+# Possible Addition Technologies to Use
 #############################################################################################
 
 **Frontend**:
