@@ -1,6 +1,4 @@
-#############################################################################################
 # Summary of Ideas and Features
-#############################################################################################
 
 **Goal**: Create a RPG using Google Maps API
 
@@ -8,9 +6,7 @@
     * The account will require a **Username** and **Password** along with a **Postal Code**
     * **Postal Code** will be used as the starting point for the User's character
 
-#############################################################################################
 # Basic RPG Elements and Ideas
-#############################################################################################
 
 Being in a typical roaming RPG format the user's character starts at level 0 with all skills set at 0 experience
 The goal is to level up skills in order to be more effective at exploring and expanding
@@ -39,9 +35,7 @@ While Exploring Users can engage in Combat
         2. Magic
         3. Melee
 
-#############################################################################################
 # Possible Page Layout and Features
-#############################################################################################
 
 **Main Page** will be the Sign-on/up with basic information about the game
 
@@ -57,9 +51,7 @@ While Exploring Users can engage in Combat
     3. Profile Page
     4. Information/Event Page
 
-#############################################################################################
 # The Map and Actions
-#############################################################################################
 
 The user can Explore using the Google Map and access features based on nearby buildings and areas
 * If the user is within an area with a/an:
@@ -71,9 +63,7 @@ The user can Explore using the Google Map and access features based on nearby bu
     * Normal Building a button will appear letting them investigate farther
         * Random special encounters or events can occur here
 
-#############################################################################################
 # The API Usage
-#############################################################################################
 
 When using the Map to explore and generate loactions to interact with they should be different while also allowing users all over the world to have and equal opportunity
 * The API will show information such as: 
@@ -82,9 +72,7 @@ When using the Map to explore and generate loactions to interact with they shoul
     * **Rating**: Influence quality and limitations 
     * **Type**: Identify what the user can do
 
-#############################################################################################
 # Possible Addition Technologies to Use
-#############################################################################################
 
 **Frontend**:
 * Handlebars: Templating/HTML generation
