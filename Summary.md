@@ -75,10 +75,10 @@ When using the Map to explore and generate loactions to interact with they shoul
 # Possible Addition Technologies to Use
 
 **Frontend**:
-* Handlebars: Templating/HTML generation
+* React: Responsive Components and Buttons
 * Bootstrap: Basic CSS styling
 
 **Backend**:
 * Firebase: Authentication
-* Sequalize/MySQL: Creating Tables for information Storage 
+* Sequalize/MySQL/Mongo: Creating Databases for Users, Profiles, Inventories, ect. 
 
